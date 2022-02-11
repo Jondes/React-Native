@@ -1,2 +1,1 @@
-# Entity-Framework
-Entity Framework Core is an Object-Relational Mapper that simplifies working with relational databases using strongly-typed .NET objects. 
+# React Native is an open-source UI software framework created by Meta Platforms, Inc.[3] It is used to develop applications for Android,[4] Android TV,[5] iOS, macOS,[6] tvOS,[7] Web,[8] Windows[6] and UWP[9] by enabling developers to use the React framework along with native platform capabilities.
